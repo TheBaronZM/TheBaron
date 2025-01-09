@@ -1,0 +1,28 @@
+the-baron/
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   ├── products/
+│   │   │   ├── [id]/
+│   │   │   │   └── page.tsx
+│   │   │   └── page.tsx
+│   │   └── cart/
+│   │       └── page.tsx
+│   ├── components/
+│   │   ├── layout/
+│   │   │   ├── Header.tsx
+│   │   │   ├── Footer.tsx
+│   │   │   └── Navigation.tsx
+│   │   ├── product/
+│   │   │   ├── ProductCard.tsx
+│   │   │   └── ProductGrid.tsx
+│   │   └── ui/
+│   │       ├── Button.tsx
+│   │       └── Input.tsx
+│   └── styles/
+│       └── globals.css
+├── public/
+│   └── images/
+├── package.json
+└── next.config.js 

@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1a1a1a;
+  --secondary: #9a8c78;
+}
+
+body {
+  @apply text-gray-900 bg-white;
+}
+
+.container {
+  @apply max-w-7xl mx-auto px-4;
+} 
