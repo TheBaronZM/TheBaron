@@ -83,7 +83,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-sm">
-          <p>© {new Date().getFullYear()} The Baron. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} ORISONWORKS - The Baron. All rights reserved.</p>
         </div>
       </div>
     </footer>
